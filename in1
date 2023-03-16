@@ -1,0 +1,18 @@
+[20:20:04:5747]:[H]:[GamePub]ModuleStateLeisure switch start!!!
+[20:20:04:5751]:[H]:[NetApolloMgr]133, ApolloLogLevel, Error
+[20:20:04:5757]:[H]:[XLua NssFramework]Form: ModuleStateGame: 4 To: ModuleStateLeisure: 5
+[20:20:04:5757]:[H]:[XLua EventMgr]DispatchEvent : 1002
+[20:20:04:5758]:[H]:[XLua EventMgr]WARNING: no registerd eventid[%d]1002
+[20:20:04:5758]:[H]:[NssTools][SetMaxFPS] Set max FPS To: 0 LimitFPS: 120
+[20:20:04:5759]:[H]:[NssTools][SetMaxFPS] result framerate is: 30
+[20:20:04:5793]:[H]:[OnDrawGizmosMgr] Clear 0
+[20:20:04:5803]:[H]:[UIPlayerMgr]CreatePlayer, init start
+[20:20:04:5805]:[H]:[UIPlayerMgr]CreatePlayer, init end
+[20:20:04:6242]:[H]:[UIFramework]OnModuleInit [ GarageMgr ] Start
+[20:20:04:6243]:[H]:[UIFramework]OnModuleInit [ GarageMgr ] End
+[20:20:04:6248]:[H]:[NssTime] UseGameUpdateRefreshNowRealTime:False
+[20:20:04:6249]:[H]:[PhyEngine]Init!
+[20:20:04:6353]:[H]:[PhyEngine]Init finished.
+[20:20:04:6380]:[H]:[PhyEngine][NssRoadPickMgr]_InitHavokPick finished.
+[20:20:06:4347]:[H]:[UIFramework]OnModuleInit [ PlayerSpaceMdl ] Start
+[20:20:06:4350]:[H]:[UIFramework]OnModuleInit [ PlayerSpaceMdl ] End

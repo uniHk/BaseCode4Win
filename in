@@ -1,0 +1,49 @@
+[20:12:34:4552]:[H]:[GamePub]ModuleStateLeisure switch start!!!
+[20:12:34:4556]:[H]:[NetApolloMgr]133, ApolloLogLevel, Error
+[20:12:34:4560]:[H]:[XLua NssFramework]Form: ModuleStateGame: 4 To: ModuleStateLeisure: 5
+[20:12:34:4561]:[H]:[XLua EventMgr]DispatchEvent : 1002
+[20:12:34:4561]:[H]:[XLua EventMgr]WARNING: no registerd eventid[%d]1002
+[20:12:34:4562]:[H]:[NssTools][SetMaxFPS] Set max FPS To: 0 LimitFPS: 120
+[20:12:34:4562]:[H]:[NssTools][SetMaxFPS] result framerate is: 30
+[20:12:34:4583]:[H]:[OnDrawGizmosMgr] Clear 0
+[20:12:34:4592]:[H]:[UIPlayerMgr]CreatePlayer, init start
+[20:12:34:4593]:[H]:[UIPlayerMgr]CreatePlayer, init end
+[20:12:34:4901]:[H]:[UIFramework]OnModuleInit [ GarageMgr ] Start
+[20:12:34:4902]:[H]:[UIFramework]OnModuleInit [ GarageMgr ] End
+[20:12:34:4906]:[H]:[NssTime] UseGameUpdateRefreshNowRealTime:False
+[20:12:34:4906]:[H]:[PhyEngine]Init!
+[20:12:34:4991]:[H]:[PhyEngine]Init finished.
+[20:12:34:5010]:[H]:[PhyEngine][NssRoadPickMgr]_InitHavokPick finished.
+[20:12:35:6434]:[H]:[UIFramework]OnModuleInit [ PlayerSpaceMdl ] Start
+[20:12:35:6436]:[H]:[UIFramework]OnModuleInit [ PlayerSpaceMdl ] End
+[20:12:35:6445]:[H]:[RacingTeamMdl][RacingTeamMgr]SetSelfTeamData 242092995
+[20:12:35:6562]:[H]:[NanoCarbarnDataMgr] RequestNanoWorkShopCfgPara
+[20:12:35:6582]:[H]:[UIFramework]OnModuleInit [ LotteryMdl ] Start
+[20:12:35:6634]:[H]:[UIFramework]OnModuleInit [ LotteryMdl ] End
+[20:12:35:7470]:[H]:[yueruilin] [FashionHandBookMgr] Init InitAllData time is 5ms
+[20:12:35:7478]:[H]:[GloryMedalDataMgr] 荣誉勋章加载赛季配置Start...
+[20:12:35:7479]:[H]:[GloryMedalDataMgr] 当前时间本地：
+[20:12:35:7479]:[H]:[GloryMedalDataMgr] 使用服务器时间时间：
+[20:12:35:7502]:[H]:[GloryMedalDataMgr] 当前时间本地：
+[20:12:35:7502]:[H]:[GloryMedalDataMgr] 使用服务器时间时间：
+[20:12:35:7506]:[H]:[GloryMedalDataMgr] 当前时间本地：
+[20:12:35:7506]:[H]:[GloryMedalDataMgr] 使用服务器时间时间：
+[20:12:35:7733]:[H]:[GamePub]ModuleStateLeisure switch end!!!
+[20:12:35:8824]:[H]:[UIPlayerInfo][FromMainPlayerBaseInfo]stReserveClientResPackInfo.ullVersion: 1320004120
+[20:12:35:9149]:[H]:[UIPlayerInfo][FromMainPlayerBaseInfo]stReserveClientResPackInfo.ullVersion: 1320004120
+[20:12:35:9154]:[H]:[GloryMedal][RedPoint]0+0+0|
+[20:12:35:9156]:[H]:[e_cuex] e_cuex 1: 26, True
+[20:12:35:9157]:[H]:[e_cuex] e_cuex 2: 26
+[20:12:36:0303]:[H]:[VehicleMgr]胎印资源 配置错误
+[20:12:36:0373]:[W]:[VehicleMgr]胎焰资源配置错误
+[20:12:36:1966]:[H]:[LSLoadWrapper] Avatar loading duration: 0.0007324219
+[20:12:36:2237]:[H]:[LSLoadWrapper] Pet loading duration: 0.02709961
+[20:12:36:8186]:[H]:[ExchangeItemMenuVM] OnCSResGetExchangeInfoPara
+[20:12:36:8323]:[H]:[NanoCarbarnDataMgr] OnCSResGetNanoWorkShopCfgPara
+[20:12:36:8326]:[H]:[ExchangeItemMenuVM] RequestGetExchangeInfo
+[20:12:36:8386]:[H]:[ExchangeItemMenuVM] OnCSResGetExchangeInfoPara
+[20:12:36:8485]:[H]:[MultiPlayerFunGameDataMgr]CSResMultiPlayerLeisureGameInfoPara Success!
+[20:12:36:8506]:[H]:[NetModule][CsProofreadTime] CheckSystemTimeError! curClientTime=1659269555774, LastFrameClientUnixTime=1659269554263, deltaRealTime=2.58667, deltaTime=1.036011, errorTime=-1075.67
+[20:12:36:8508]:[H]:[NetModule][CsProofreadTime] CheckSystemTimeError, SendHelloMsg
+[20:12:36:8854]:[H]:[InGameActorCdnDownloadComponent] ForceStopDownload
+[20:12:36:9921]:[H]:[ExchangeItemMenuVM] OnCSResGetExchangeInfoPara

@@ -1,0 +1,3 @@
+print (0x43a36d78a5b4758801654ebe4af3ee1e % (1 << 32))
+print (0x43a36d7896f439dc6517380a7169af48 % (1 << 32))
+print (0x43a36d78)

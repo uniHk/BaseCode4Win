@@ -6,7 +6,7 @@
         {
             "type": "shell",
             "label": "g++.exe build active file",//任务的名字，就是刚才在命令面板中选择的时候所看到的，可以自己设置
-            "command": "C:/mingw64/bin/gcc.exe",
+            "command": "C:/mingw64/bin/g++.exe",
             "args": [//编译时候的参数
                 "-g",//添加gdb调试选项
                 "${file}",
